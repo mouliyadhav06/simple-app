@@ -17,9 +17,9 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<dependency>
+		</dependencies>
 		
-  build>
+  <build>
  <plugins>
      <plugin>
          <groupId>org.apache.maven.plugins</groupId>
@@ -32,11 +32,10 @@
      </plugin>
  </plugins>
 </build>
-	        </dependency>
+	      
 
 		
 		
 
-	</dependencies>
 	
 </project>
